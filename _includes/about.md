@@ -1,20 +1,20 @@
-## Kiss Orsolya
+## Kiss Orsolya 
 
-Jelenleg fiatal kutatóként az MTA KPI Pszichobiológiai kutatócsoportjában dolgozom. 
+Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutatócsoportjában dolgozom. 
 
 ### Érdemes felkeresned, ha:
 
-- szeretnél valamilyen területen fejlődni (önismeret, sport-mozgás..)
+- szeretnél valamilyen területen fejlődni (önismeret, sport, konfliktuskezelés..)
 - nehézségeid vannak a párkeresésben, és nem ér rá akármeddig, hogy elindulj a kapcsolat felé
 - a vizsgastressz, a munkahelyi stressz rontja a teljesítményed 
 - kevés az önbizalmad, és döntéshelyzetben vagy
 - a családból hozott élményeidetet szeretnéd feltérképezni, továbblépni egy új életszakaszba
 - tipikus kockának érzed magad, nehézséget okoz a kapcsolatteremtés és fejlődni akarsz új területeken is
 
-- a gyereked utál tanulni, és ez folyamatos konfliktus forrása a családban
+- a gyereked nem szeret tanulni, és ez folyamatos konfliktus forrása a családban
 - nincs időd és energiád a gyerekkel tanulni, de úgy érzed szüksége van a minőségi figyelemre
 - nincs hobbija a gyerekednek, gyakran lehangolt, "fáradt"
-- a gyereked "tipikus" pszichológushoz nem menne, de egy magán tanártól elfogadná a segítséget
+
 
 
 ### Kikkel van tapasztalatom:
@@ -56,6 +56,8 @@ Jelenleg fiatal kutatóként az MTA KPI Pszichobiológiai kutatócsoportjában d
  		együttműködés erősítése
  		csoportvezetők képzése 
  		tematikus önismereti csoportok tartása
+ 		nyári táboroztatás 
+ 		
 
 ### Hol tudunk talákozni?
 
