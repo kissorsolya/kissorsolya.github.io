@@ -1,0 +1,28 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               "Róbert Pálovics"
+tagline:             ""
+url:                 rpalovics.github.io
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Robert Palovics
+  url:               rpalovics.github.io
+  email:             robert.palovics@gmail.com
+
+github:
+  repo:              rpalovics/rpalovics.github.io
+
+# Gems
+gems:
+  - jekyll-gist
