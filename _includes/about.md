@@ -1,3 +1,5 @@
+![Piros](./materials/fejlec.JPG)
+
 ## Kiss Orsolya 
 
 Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutatócsoportjában dolgozom. 
@@ -57,7 +59,7 @@ Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutat�
  		csoportvezetők képzése 
  		tematikus önismereti csoportok tartása
  		nyári táboroztatás 
- 		
+
 
 ### Hol tudunk talákozni?
 
