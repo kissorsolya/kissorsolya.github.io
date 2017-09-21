@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  text-align: justify;
 }
 
 h1 {
@@ -41,6 +42,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  text-align: justify;
 }
 
 dt {
