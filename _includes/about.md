@@ -26,7 +26,6 @@ Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutat�
 
 ### Kikkel van tapasztalatom:
 
-
 - gyerekekkel (7-13 év)
 	- tanulási motiváció (matematika, természettudományok, irodalom)
 	- önbizalom a tanulásban
