@@ -2,6 +2,11 @@
 
 Jelenleg fiatal kutatóként az MTA KPI Pszichobiológiai kutatócsoportjában dolgozom. 
 
+## Aktuális
+
+ - [Online szülő vagyok? - Kérdőív](https://goo.gl/forms/hPYk2unvHN3wqf6h2)
+ - [Online szülő vagyok? - Visszajelzés kérdőív](https://goo.gl/forms/LQMgSv6QMveoSnWu1)
+
 ### Érdemes felkeresned, ha:
 
 - szeretnél valamilyen területen fejlődni (önismeret, sport-mozgás..)
