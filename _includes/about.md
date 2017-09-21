@@ -15,7 +15,7 @@ Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutat�
 - nehézségeid vannak a párkeresésben, és nem ér rá akármeddig, hogy elindulj a kapcsolat felé
 - a vizsgastressz, a munkahelyi stressz rontja a teljesítményed 
 - kevés az önbizalmad, és döntéshelyzetben vagy
-- a családból hozott élményeidetet szeretnéd feltérképezni, továbblépni egy új életszakaszba
+- a családból hozott élményeidet szeretnéd feltérképezni, továbblépni egy új életszakaszba
 - tipikus kockának érzed magad, nehézséget okoz a kapcsolatteremtés és fejlődni akarsz új területeken is
 
 - a gyereked nem szeret tanulni, és ez folyamatos konfliktus forrása a családban
@@ -30,7 +30,7 @@ Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutat�
 - gyerekekkel (7-13 év)
 		tanulási motiváció (matematika, természettudományok, irodalom)
 		önbizalom a tanulásban
-		beilleszkedés a kortárcsoportba, iskolai közösségbe
+		beilleszkedés a kortárscsoportba, iskolai közösségbe
 		tehetséggondozás (sajátos szorongások)
 		pályaválasztás
 		tanulási zavarok (diszkalkulia)
@@ -46,7 +46,7 @@ Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutat�
 		párkapcsolati problémák
 		munkahelyi beilleszkedés, kommunikációs nehézségek
 		kiégés valamilyen szerepkörben (első munkahelyen, párkapcsolatban, képzésben stb.)
-		családi minták feltérképezése, konfliktiskezelés
+		családi minták feltérképezése, konfliktuskezelés
 		gyerekvállalás - csecsemő a családban
 		perfekcionizmus
 		CV írása, felkészítés első interjúra
@@ -66,9 +66,9 @@ Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutat�
  		nyári táboroztatás 
 
 
-### Hol tudunk talákozni?
+### Hol tudunk találkozni?
 
-- felnőttekkel egyeztetünk időpontot és helyszínt (XI kerület)
+- felnőttekkel egyeztetünk időpontot és helyszínt (XI. kerület)
 - gyerekekhez indokolt esetben kimegyek
 - kisgyerekek családhoz indokolt esetben kimegyek
 
