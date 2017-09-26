@@ -5,7 +5,7 @@
 Jelenleg fiatal kutatói ösztöndíjasként az MTA KPI Pszichobiológiai kutatócsoportjában dolgozom. 
 
 ## Aktuális
-
+ - [Norton Family szűrőprogram telepítése](https://www.youtube.com/watch?v=xs_X3ZUsQ8Q&feature=youtu.be)
  - [Online szülő vagyok? - Kérdőív](https://goo.gl/forms/hPYk2unvHN3wqf6h2)
  - [Online szülő vagyok? - Visszajelzés kérdőív](https://goo.gl/forms/LQMgSv6QMveoSnWu1)
 
