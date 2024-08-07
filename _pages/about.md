@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a **developmental sleep scientist**. My training in **Psychology** and **Computer Science** forms the foundation of my research at the intersection of data science and *neuroscience*. 
+Welcome! I am a **developmental sleep scientist**. My training in **Psychology** and **Computer Science** forms the foundation of my research at the intersection of data science and *neuroscience*. I earned my PhD in Cognitive Science from the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en), Hungary, and my BSc in Computer Science from [Eötvös Loránd University](https://www.elte.hu/en/), Hungary.
 
 <img src="/images/testament.png" alt="Orsolya Kiss" style="width: 250px; float: right; margin-left: 20px; margin-bottom: 10px;">
 
@@ -15,13 +15,13 @@ As a Research Scientist at SRI International's Center for Health Sciences, I spe
 
 As part of this work, I am engaged as an investigator in the *Adolescent Behavior and Cognitive Development (ABCD) Study*, a demographically diverse multi-site consortium study that aims to determine the developmental trajectories of brain, neuropsychological, and emotional development of adolescents. 
 
-Here are some articles and mentions of my work:
+Here are some media coverage and mentions of my work:
 
 <ul>
   {% for article in site.data.coverage %}
     <li>
       <a href="{{ article.url }}">{{ article.title }}</a> - <em>{{ article.source }}</em> ({{ article.date }})
-      <p>{{ article.summary }}</p>
+      <p>{{ article.summary | replace: 'Orsolya Kiss', '<strong>Orsolya Kiss</strong>' }}</p>
     </li>
   {% endfor %}
 </ul>
