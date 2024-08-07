@@ -1,9 +1,9 @@
+
 - title: "Impact of social media usage on sleep patterns in adolescents"
-  summary: "Dr. Kiss stated, “Our findings suggest that poor sleep and high social media engagement could potentially alter neural reward sensitivity in adolescents..."
+  summary: "Dr. Kiss stated, \"Our findings suggest that poor sleep and high social media engagement could potentially alter neural reward sensitivity in adolescents...\""
   url: "https://www.techexplorist.com/social-media-impact-sleep-duration/84337/"
   source: "Tech Explorist"
   date: "2024-05-31"
-
 
 - title: "The Pros and Cons of Adolescent Screen Use"
   summary: "This webinar features presentations by Drs. Jason Nagata, Orsolya Kiss, and Bader Chaarani who share recent findings on the links between screen use and health and behavior in the ABCD Study® cohort."
@@ -11,9 +11,26 @@
   source: "NIDA"
   date: "2023-05-04"
 
-
 - title: "Interview with Orsolya Kiss"
   summary: "Children spending more time on screens, going to bed later during pandemic"
-  url: "/https://www.sleepmeeting.org/children-spending-more-time-on-screens-going-to-bed-later-during-pandemic/"
+  url: "https://www.sleepmeeting.org/children-spending-more-time-on-screens-going-to-bed-later-during-pandemic/"
   source: "Sleep 2024"
-  date: "2023-06-3"
+  date: "2023-06-03"
+
+- title: "How the COVID-19 pandemic and machine learning delivered insights into adolescent mental health"
+  summary: "Summing up the study, Kiss said, \"I'm very interested in the recovery process from the depression and distress...youth are very resilient. The SRI Sleep Lab team along with ABCD want to highlight the sources of resilience, not just the risks.\""
+  url: "https://medium.com/dish/how-the-covid-19-pandemic-and-machine-learning-delivered-insights-into-adolescent-mental-health-bfe0e4941dee"
+  source: "Medium"
+  date: "2022-04-13"
+
+- title: "Teen Screen Time Goes Hand in Hand With Wacky Bedtimes During the Pandemic"
+  summary: "Dr. Orsolya Kiss presented findings showing that early adolescents spent more time on screens and had later bedtimes during the first year of the COVID-19 pandemic. The study, part of the Adolescent Brain Cognitive Development Study, found an average increase of 45 minutes on social media and 20 minutes on video games, with girls favoring social media and boys spending more time gaming."
+  url: "https://www.medpagetoday.com/meetingcoverage/apss/99144"
+  source: "MedPage Today"
+  date: "2022-06-09"
+
+- title: "Social connectedness, sleep, physical activity associated with better mental health among youth during COVID-19 pandemic"
+  summary: "Dr. Orsolya Kiss, lead author of the study, and colleagues found that supportive relationships with family and friends, along with healthy behaviors like physical activity and better sleep, appeared to protect against the pandemic's negative effects on adolescents' mental health. The research, part of the ABCD Study, used machine learning to analyze data from over 3,000 adolescents aged 11-14."
+  url: "https://www.nih.gov/news-events/news-releases/social-connectedness-sleep-physical-activity-associated-better-mental-health-among-youth-during-covid-19-pandemic"
+  source: "National Institutes of Health (NIH)"
+  date: "2022-01-24"

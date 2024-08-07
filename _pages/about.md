@@ -21,7 +21,7 @@ Here are some media coverage and mentions of my work:
   {% for article in site.data.coverage %}
     <li>
       <a href="{{ article.url }}">{{ article.title }}</a> - <em>{{ article.source }}</em> ({{ article.date }})
-      <p>{{ article.summary | replace: 'Orsolya Kiss', '<strong>Orsolya Kiss</strong>' }}</p>
+      <p>{{ article.summary | rreplace: 'Orsolya Kiss', '<strong>Orsolya Kiss</strong>' | replace: 'O. Kiss', '<strong>O. Kiss</strong>' }}</p>
     </li>
   {% endfor %}
 </ul>
