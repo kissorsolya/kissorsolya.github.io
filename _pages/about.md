@@ -15,6 +15,9 @@ As a Research Scientist at SRI International's Center for Health Sciences, I spe
 
 As part of this work, I am engaged as an investigator in the *Adolescent Behavior and Cognitive Development (ABCD) Study*, a demographically diverse multi-site consortium study that aims to determine the developmental trajectories of brain, neuropsychological, and emotional development of adolescents. 
 
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 <h2>Photography</h2>
 
