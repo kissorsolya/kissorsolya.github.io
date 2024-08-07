@@ -15,10 +15,14 @@ As a Research Scientist at SRI International's Center for Health Sciences, I spe
 
 As part of this work, I am engaged as an investigator in the *Adolescent Behavior and Cognitive Development (ABCD) Study*, a demographically diverse multi-site consortium study that aims to determine the developmental trajectories of brain, neuropsychological, and emotional development of adolescents. 
 
+Here are some articles and mentions of my work:
+
 <ul>
-  {% assign fruits = "apple, orange, banana, mango" | split: ", " %}
-  {% for fruit in fruits %}
-    <li>{{ fruit }}</li>
+  {% for article in site.data.coverage %}
+    <li>
+      <a href="{{ article.url }}">{{ article.title }}</a> - <em>{{ article.source }}</em> ({{ article.date }})
+      <p>{{ article.summary }}</p>
+    </li>
   {% endfor %}
 </ul>
 
