@@ -1,0 +1,17 @@
+- title: "Innovator Spotlight: [Your Name]"
+  summary: "A detailed feature on [Your Name]'s groundbreaking project..."
+  url: "/media/innovator-spotlight"
+  source: "Tech Daily"
+  date: "2024-08-01"
+
+- title: "Award Winning Work by [Your Name]"
+  summary: "[Your Name] receives accolades for their latest achievements..."
+  url: "/media/award-winning-work"
+  source: "Industry Insights"
+  date: "2024-07-15"
+
+- title: "Interview with [Your Name]"
+  summary: "An in-depth interview covering recent projects and future plans..."
+  url: "/media/interview"
+  source: "Innovate Magazine"
+  date: "2024-06-30"
