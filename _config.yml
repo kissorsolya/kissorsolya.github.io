@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Orsolya Kiss"
 title_separator          : "-"
-name                     : &name "Orsolya Kiss"
+name                     : &name "Orsolya Kiss, Ph.D"
 description              : &description "academic website"
 url                      : https://kissorsolya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,12 +22,12 @@ repository               : "kissorsolya/kissorsolya.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Orsolya Kiss"
+  name             : "Orsolya Kiss, Ph.D"
   pronouns         : # example: "she/her"  
-  bio              : "Center for Health Sciences, SRI International"
+  bio              : "Center for Health Sciences, Human Sleep Lab"
   location         : "Menlo Park, CA"
   employer         : "SRI International"
-  uri              : # URL
+  uri              : "https://www.sri.com/bios/orsolya-kiss/"
   email            : "orsolya.kiss@sri.com" 
 
   # Academic websites
@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2643-773X"
   semantic         : # URL
-  pubmed           : ""
-  researchgate     : # URL
+  pubmed           : #""
+  researchgate     : "https://www.researchgate.net/profile/Orsolya-Kiss-3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "okiss"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -206,7 +206,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  reserach:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -252,7 +252,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
       type: research
